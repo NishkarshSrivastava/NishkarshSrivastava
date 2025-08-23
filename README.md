@@ -1,16 +1,30 @@
-## Hi there 👋
+Intro:
 
-<!--
-**NishkarshSrivastava/NishkarshSrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Showcasing my skills in Data Analysis, Machine Learning, Deep Learning, and NLP — from raw data to real-world solutions 
 
-Here are some ideas to get you started:
+Highlights:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•	20+ Projects covering EDA, ML, DL, NLP, and Deployment.
+
+•	Clean, well-structured, and reproducible code.
+
+•	Each project contains a detailed README with datasets, approach, and results.
+
+•	End-to-end pipelines — from data collection to deployment.
+
+Tech & Tools
+
+•	Languages: Python, SQL
+
+•	Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, PyTorch, NLTK, OpenCV
+
+•	Tools: Google Colab
+
+•	Deployment: Streamlit, Hugging Face Spaces, Heroku
+
+Other link
+
+•	Email: nishkarshsrivastava238@gmail.com
+
+•	Kaggle: 
+
