@@ -26,5 +26,4 @@ Other link
 
 •	Email: nishkarshsrivastava238@gmail.com
 
-•	Kaggle: 
-
+•	Kaggle: https://www.kaggle.com/nishkarsh27
